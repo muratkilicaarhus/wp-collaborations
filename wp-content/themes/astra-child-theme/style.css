@@ -53,3 +53,7 @@ button#wpforms-submit-10:hover {
 .woocommerce span.onsale, .wc-block-grid__product .wc-block-grid__product-onsale {
     background-color: #ff7b3c;
 }
+
+p.elementor-icon-box-description {
+    color: midnightblue;
+}
