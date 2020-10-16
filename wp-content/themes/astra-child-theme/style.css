@@ -23,3 +23,33 @@ body {
     background-color: #b8c36d !important;
     z-index: 3;
 }
+
+.elementor-button-wrapper .elementor-button {
+    border-color: #000000;
+    background-color: #eb4d0c;
+}
+
+.elementor-button-wrapper: hover{
+    border-color: #000000;
+    background-color: #222222 !important;
+}
+
+.elementor-button:hover {
+    border-color: #000000;
+    background-color: #222222 !important;
+}
+
+button#wpforms-submit-10 {
+    border-color: #000000;
+    background-color: #eb4d0c;
+    width: 100%;
+}
+
+button#wpforms-submit-10:hover {
+    border-color: #000000;
+    background-color: #222222 !important;
+}
+
+.woocommerce span.onsale, .wc-block-grid__product .wc-block-grid__product-onsale {
+    background-color: #ff7b3c;
+}
