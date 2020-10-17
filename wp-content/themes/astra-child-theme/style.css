@@ -29,11 +29,6 @@ body {
     background-color: #eb4d0c;
 }
 
-.elementor-button-wrapper: hover{
-    border-color: #000000;
-    background-color: #222222 !important;
-}
-
 .elementor-button:hover {
     border-color: #000000;
     background-color: #222222 !important;
@@ -57,4 +52,17 @@ button#wpforms-submit-10:hover {
 
 p.elementor-icon-box-description {
     color: midnightblue;
+}
+
+.woocommerce-account .woocommerce-EditAccountForm .woocommerce-Button {
+    margin-top: 1em;
+    margin-left: 3px;
+    width: 100%;
+    border-color: #000000;
+    background-color: #eb4d0c;
+}
+
+ .woocommerce-Button:hover {
+    border-color: #000000;
+    background-color: #222222 !important;
 }
