@@ -1,2 +1,6 @@
 # ignore a single file
 wp-config.php
+
+.DS_Store
+
+wp-content/themes/.DS_Store
